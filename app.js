@@ -67,3 +67,4 @@ function sortearParticipante() {
 function mostrarResultado(texto) {
     document.getElementById('resultadoSorteo').innerHTML = `<li>${texto}</li>`;
 }
+
