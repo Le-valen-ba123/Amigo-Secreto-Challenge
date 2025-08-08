@@ -1,6 +1,6 @@
 :root {
-    --color-primary: #4B69FD;
-    --color-secondary: #B5A682;
+    --color-primary: #265880;
+    --color-secondary: #FFF9EB;
     --color-tertiary: #C4C4C4;
     --color-button: #fe652b;
     --color-button-hover: #e55720;
@@ -160,4 +160,5 @@ ul {
 .button-draw:hover {
     background-color: var(--color-button-hover);
 }
+
 
