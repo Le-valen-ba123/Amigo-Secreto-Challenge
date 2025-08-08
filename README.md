@@ -33,7 +33,7 @@ Permite ingresar nombres, validarlos y seleccionar aleatoriamente a un amigo sec
 
 ## 📦 Cómo usar
 
-1. Descarga o clona este repositorio en tu equipo.
+1. Descarga este repositorio en tu equipo.
 2. Abre el archivo `index.html` en tu navegador.
 3. Ingresa el nombre de un participante en el campo de texto y pulsa **"Añadir"**.
 4. Repite hasta completar la lista de todos los amigos que participarán.
